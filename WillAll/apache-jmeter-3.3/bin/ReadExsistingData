@@ -1,0 +1,15 @@
+UserRef,SpogUsername,SpogPassword,FirstName,LastName,SMX,BillFire,SOTF,UserType,OpCOName,CustomerID,Comments
+spogAutoAdmin,autoadmin@yopmail.com,Letmein123,Automation,Admin,yes,yes,yes,Admin,HOUSTON,278606,NA
+multi-user,automa@yopmail.com,Letmein123,Automation,MA,yes,yes,yes,Sales Associate,HOUSTON,278606,NA
+spogAutoTileChange,autochangetile@yopmail.com,Letmein123,Automation,TileUser,yes,N/A,N/A,Normal User,HOUSTON,278606,NA
+resendActivation,resendactivationtest@trash-mail.com,Letmein123,Automation,ResendActivation,TBA,TBA,TBA,TBA,HOUSTON,278606,NA
+mysyscoReportUser,TBA,TBA,TBA,TBA,TBA,TBA,TBA,Normal User,HOUSTON,278606,NA
+favoriteAppChangeUser,favoriteappuser@trash-mail.com,Letmein123,FavoriteApp,User,yes,yes,yes,Normal User,HOUSTON,278606,NA
+normalUser,auto_testyEmoTb@yopmail.com,Letmein123,auto_testUWXNot,auto_testjmtlfI,yes,yes,yes,Normal User,HOUSTON,278606,NA
+syscoEmailUser,automationemai@sysco.com,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,NA
+resetPassword,mysyscopasswordreset@trash-mail.com,Welcome123,Rashmi,Jess,N/A,N/A,N/A,N/A,HOUSTON,278606,This userID used for password reset only
+adminFilteringUser,maheshuser@trash-mail.com,Welcome123,N/A,N/A,N/A,N/A,N/A,N/A,HOUSTON,N/A,This userID used for admin filtering only
+lockaccountUser,lockaccount@trash-mail.com,Letmein123,Automation,lockaccountUser,N/A,N/A,N/A,N/A,HOUSTON,278606,to check account lock after 9 unsuccessfull atempts
+editUserAccount,auto_eflaifvz@trash-mail.com,Letmein123,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+accountAccessNormalUser1,accountaccessnormaluser1@opentrash.com,Letmein123,Automation,accountAccessNormalUser1,N/A,N/A,N/A,Normal User,HOUSTON,278606,N/A
+accountAccessNormalUser2,accountaccessnormaluser2@opentrash.com,Letmein123,Automation,accountAccessNormalUser2,N/A,N/A,N/A,Normal User,HOUSTON,278606,N/A
